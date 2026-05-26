@@ -25,7 +25,7 @@ const ITEMS: SnackItem[] = [
   { id: 'blankets', emoji: '🛋️', label: 'Extra Blankets', category: 'extras' },
   { id: 'cuddle', emoji: '🤗', label: 'Cuddle Priority', category: 'extras' },
   { id: 'pause', emoji: '⏸️', label: 'Pause Privileges', category: 'extras' },
-  { id: 'butter', emoji: '🧈', label: 'Extra Popcorn Butter', category: 'extras' },
+  { id: 'butter', emoji: '🍵', label: 'Matcha', category: 'extras' },
 ]
 
 const CATEGORY_META: Record<string, { label: string }> = {
